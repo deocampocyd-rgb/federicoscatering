@@ -11,8 +11,9 @@ import EventDesign from './pages/EventDesign/EventDesign'
 import LoginPopup from './components/LoginPopup/LoginPopup'
 import Verify from './pages/Verify/Verify'
 import MyOrders from './pages/MyOrders/MyOrders'
-import EventSetup from './pages/Eventsetup/Eventsetup'
-import BookingReceipt from './pages/BookingReceipt/BookingReceipt'  // ← NEW
+import BookingReceipt from './pages/BookingReceipt/BookingReceipt'
+// ✅ Correct
+import EventSetup from './pages/Eventsetup/EventSetup'  // ← NEW
 
 
 const App = () => {
